@@ -1,0 +1,30 @@
+{
+  "name": "ep2",
+  "version": "1.0.0",
+  "description": "Namaste React",
+
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SumathiCool/namaste-react.git"
+  },
+  "author": "Sumathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SumathiCool/namaste-react/issues"
+  },
+  "homepage": "https://github.com/SumathiCool/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+]
+}
