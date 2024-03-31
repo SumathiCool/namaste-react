@@ -1,0 +1,38 @@
+.headcontainer{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.logo{
+    width: 100px;
+}
+.headcontainer > ul{
+    display: flex;
+    padding: 0 20px;
+    list-style-type: none;
+}
+.headcontainer > ul > li{
+    padding: 20px;
+    font-size: 25px;
+}
+.search{
+    padding: 5px;
+}
+.res-cont{
+    display: flex;
+    flex-wrap: wrap;
+}
+.rescard-cont{
+    width: 200px;
+    height: 450px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.rescard-cont:hover{
+    border: 1px solid gray;
+    cursor: pointer;
+}
+.res-img{
+    width: 100%;
+}
